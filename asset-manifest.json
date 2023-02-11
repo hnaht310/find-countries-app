@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hnaht310/find-countries-app/static/css/main.e6c13ad2.css",
+    "main.js": "/hnaht310/find-countries-app/static/js/main.0faa709b.js",
+    "index.html": "/hnaht310/find-countries-app/index.html",
+    "main.e6c13ad2.css.map": "/hnaht310/find-countries-app/static/css/main.e6c13ad2.css.map",
+    "main.0faa709b.js.map": "/hnaht310/find-countries-app/static/js/main.0faa709b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0faa709b.js"
+  ]
+}
